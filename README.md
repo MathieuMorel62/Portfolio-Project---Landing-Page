@@ -1,10 +1,8 @@
 <h1 align="center">🚀 Portfolio Project Landing Page 🚀</h1>
 
 <p align="center">
-  <img width="100%" alt="Capture d’écran 2023-06-21 à 11 05 29" src="https://github.com/MathieuMorel62/Portfolio-Project---Landing-Page/assets/113856302/9f213533-0117-4fac-8acf-68cfe659ee86">
+  <img width="100%" alt="Capture d’écran 2023-06-23 à 13 21 40" src="https://github.com/MathieuMorel62/Portfolio-Project---Landing-Page/assets/113856302/88e53547-3f45-43a9-ad3c-2f3ec45ea0b1">
 </p>
-
----
 
 # 📝 General Information
 
